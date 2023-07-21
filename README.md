@@ -21,7 +21,7 @@ Lo primero es entender que funciona con el gestor de estados Riverpod y de clean
 
 Las carpeta principal es /lib la cual contiene la estructura del proyecto y la estructura con su explicación superficial seria
 
- -- /lib -> carpeta principal donde modificamos el código
+     -- /lib -> carpeta principal donde modificamos el código
 
     -- domain -> Es donde se encuentra la lógica de negocio pero no se debe confundir con la logica de la vista
         -- use_cases -> Es donde crean la lógica de negocio de los posibles casos de uso
